@@ -24,6 +24,8 @@
 
 # Lukewarm (once were hot, now might be rot)
 
+* [Theseus](https://github.com/adobe-research/theseus): a one-of-a-kind JavaScript debugger
+* [fondue](https://github.com/adobe-research/fondue): the JavaScript instrumentation library used by Theseus (see above)
 * [coolterm](https://github.com/alltom/coolterm): minimal shell based on the macOS rich text widget
   * The whole thing is editable, so you can delete stuff, bold stuff, etc, as you work
   * If you’ve used Plan 9’s shell, you known what I mean—but this is rich text
